@@ -17,5 +17,7 @@ Clone to computer and seed database
 create .env file and add the following:
 
 DB_NAME='tech_blog_db'
+
 DB_USER='root'
+
 DB_PW='XXX'
